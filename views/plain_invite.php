@@ -1,0 +1,1 @@
+Congratulations!  You've been promoted to the rank of captain and given command of your own starship. Assuming you would like to begin your tour of duty immediately, reply to this email with the text "{Your Name}, reporting for duty aboard the IFS <?= $shipname ?>". Your crew awaits your orders!
